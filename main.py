@@ -29,7 +29,7 @@ print("Script       : " + Script)
 Github = "       https://github.com/minz666/Discord\n"
 print("Github       : " + Github)
 print("===========================================================================\n")
-print('WARNING   :        DON'T SELL THIS CODE! \n')
+print('WARNING   :        DONT SELL THIS CODE! \n')
 print("WARNING   :        ALL RISKS ARE DRNE BY THE USER!\n")
 print("===========================================================================\n")
 
